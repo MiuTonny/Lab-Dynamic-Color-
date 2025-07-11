@@ -12,3 +12,36 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Lab-Dynamic-Color-
 
+# Color Clock React App
+
+This is a simple React application that displays the current time and a calendar.  
+It uses the `date-fns` package for formatting and `react-calendar` for date selection.
+
+## Features
+
+- Live-updating digital clock (24-hour format)
+- Interactive calendar to pick a date
+- Formatted date and time display
+- Custom styling using CSS
+- Built with React + Vite
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MiuTonny/Lab-Dynamic-Color-.git
+
+2. Navigate to the project folder:
+
+   cd Lab-Dynamic-Color-
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev
+
+5. Open the app:
+   Open in your brower.
+
+

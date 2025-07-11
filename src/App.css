@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+.clock-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: black; 
+  color: grey;            
+}
+
+.clock-time {
+  font-size: 4rem;
+  color: blue;            
+  margin-bottom: 1rem;
+}
+
+.selected-date {
+  font-size: 1.5rem;
+  color: gold;           
+}
